@@ -1,7 +1,8 @@
 #Use this link to see on web : 
 
 https://yusufmovielist.netlify.app/
-
+#Open the link then,Click the button which is at the right top colored blue liked playlist icon.Search your film and then you can add watched or watch list.Click on the watchlist or watch on the top left and right and you will see your movie.
+#Take action to discover other features
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
